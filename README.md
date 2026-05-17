@@ -71,8 +71,9 @@ Task 1: Establish Connection with Pepper
 First, open the Docker container with ROS1 Noetic.
 
 Source the ROS1 environment inside Docker:
-
+```sh
 source /opt/ros/noetic/setup.bash
+```
 
 Start the Pepper NAOqi driver:
 
