@@ -1,0 +1,15 @@
+[console_scripts]
+chat = ps.lama:main
+d = ps.d:main
+detect = ps.detect:main
+display = ps.display:main
+ex = ps.ex:main
+exp = ps.exp:main
+face = ps.face:main
+gat = ps.gat:main
+loc = ps.loc:main
+say = ps.say:main
+train = ps.train:main
+wav = ps.wav:main
+wave = ps.wave:main
+
